@@ -1,0 +1,31 @@
+body {
+background-color: #393e46;
+}
+
+hr {
+  border:none;
+border-top-style: dotted;
+color: #14ffec;
+height:2px;
+width:60%;
+}
+
+h1 {
+color: #ff7844;
+}
+
+h3 {
+color: #ff7844;
+}
+
+.round {
+border-radius: 10%;
+}
+
+.href {
+    color: #ffc7c7;
+}
+
+.href:hover {
+  color: #b83b5e;
+}
